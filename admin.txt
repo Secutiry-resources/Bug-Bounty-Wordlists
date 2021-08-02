@@ -1,4 +1,12 @@
 &
+dev.
+stag.
+admin.
+internal.
+stag-dev.
+stag-admin.
+internal-dev.
+_dev.
 04webserver
 0verkill
 0wn
